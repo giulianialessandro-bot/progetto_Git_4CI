@@ -1,0 +1,11 @@
+diff   show changes between commits, commit and working tree, etc
+gep     print lines matching a pattern
+log     show commit logs 
+show    show  various types of objects
+status   show the working  tree  status
+
+grow, mark and tweak yuor common history
+backfill  download missing obyects in a partial clone
+branch    list, create, or delete branches
+commit   record changer to the repository
+merge    join two or more development histor
